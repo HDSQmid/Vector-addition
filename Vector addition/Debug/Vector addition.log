@@ -1,0 +1,4 @@
+﻿  Vector addition.cpp
+c:\users\miguel guthridge\source\repos\vector addition\vector addition\vector addition.cpp(120): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\miguel guthridge\source\repos\vector addition\vector addition\vector addition.cpp(387): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+  Vector addition.vcxproj -> C:\Users\Miguel Guthridge\source\repos\Vector addition\Debug\Vector addition.exe

@@ -1,0 +1,8 @@
+﻿  Vector addition.cpp
+c:\users\miguel guthridge\source\repos\vector addition\vector addition\vector addition.cpp(120): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  4 of 103 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Vector addition.vcxproj -> C:\Users\Miguel Guthridge\source\repos\Vector addition\x64\Release\Vector addition.exe
