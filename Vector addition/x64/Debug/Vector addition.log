@@ -1,5 +1,1 @@
-﻿  Vector addition.cpp
-c:\users\miguel guthridge\source\repos\vector addition\vector addition\vector addition.cpp(72): warning C4244: 'argument': conversion from 'double' to 'std::ios_base::openmode', possible loss of data
-c:\users\miguel guthridge\source\repos\vector addition\vector addition\vector addition.cpp(100): warning C4244: 'argument': conversion from 'double' to 'std::ios_base::openmode', possible loss of data
-c:\users\miguel guthridge\source\repos\vector addition\vector addition\vector addition.cpp(204): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Vector addition.vcxproj -> C:\Users\Miguel Guthridge\source\repos\Vector addition\x64\Debug\Vector addition.exe
+﻿  Vector addition.vcxproj -> C:\Users\Miguel Guthridge\source\repos\Vector addition\x64\Debug\Vector addition.exe
